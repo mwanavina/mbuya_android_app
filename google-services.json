@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "253178604544",
+    "project_id": "mbuya-ae7ae",
+    "storage_bucket": "mbuya-ae7ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253178604544:android:9721ff0bedb6f0b3da3ce5",
+        "android_client_info": {
+          "package_name": "com.example.mbuya_android_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253178604544-8jfleqndj4nh8e5fu1n57sr2j0humvbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mbuya_android_app",
+            "certificate_hash": "c051bcd0a3b3ff290ef8f5c347f375031e361ff3"
+          }
+        },
+        {
+          "client_id": "253178604544-6b1c2moae1oc1bi6ru79kjoeqn3t49no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQri5eOS7-qY7oqz_wrSeWYAj6BUMpcCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253178604544-6b1c2moae1oc1bi6ru79kjoeqn3t49no.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253178604544-stpk87di383aj4qki9iutrb8tknr5h1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mbuyaAndroidApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

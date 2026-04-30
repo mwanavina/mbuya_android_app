@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253178604544",
+    "project_id": "mbuya-ae7ae",
+    "storage_bucket": "mbuya-ae7ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253178604544:android:9721ff0bedb6f0b3da3ce5",
+        "android_client_info": {
+          "package_name": "com.example.mbuya_android_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQri5eOS7-qY7oqz_wrSeWYAj6BUMpcCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
